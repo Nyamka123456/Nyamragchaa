@@ -21,8 +21,7 @@ function change(){
       shape.style.borderRadius = '0';
       shape.style.borderLeft = '50px solid transparent';
       shape.style.borderRight = '50px solid transparent';
-      shape.style.borderTop = '0 solid transparent';
-      shape.style.borderBottom = '100px solid black';
+      shape.style.borderBottom = '100px solid white';
       shape.style.width = '0';
       shape.style.height = '0';
     } else if (currentShape === 3) {
