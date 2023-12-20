@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#shape{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    transition: all 0.5 ease;
+    margin: 100px;
+}
+#text{
+    margin: 100px;
+}
+#button{
+    margin: 100px;
+}
